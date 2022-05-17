@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Smart Parking System</string>
+    <string name="i_am_here">Your Location</string>
+    <string name="provider_failed">Provider Failed</string>
+    <string name="google_maps_key">AIzaSyAi4yGZwsjEKim2ppnjuJmIIKWwQYYhSSc</string>
+
+
+
+    <string-array name="car">
+        <item>Bursary parking lot</item>
+        <item>
+        Chancellor hall parking lot</item>
+        <item>
+        Chemistry Parking</item>
+        <item>
+        Commuters loung parking lot</item>
+        <item>
+        Dramatic theatre parking</item>
+        <item>
+        Law Parking Lot</item>
+        <item>
+        Main Library parking lot</item>
+        <item>
+        Main Parking lot</item>
+        <item>
+        Med sci parking lot</item>
+        <item>
+        MSBM Parking</item>
+        <item>Norman Manly Law and soci parking</item>
+        <item>
+       Sci tech parking lot front</item>
+        <item>
+        Sci tech parking rear front gate parking lot</item>
+        <item>
+        Sickle Cell unit parking lot</item>
+        <item>
+        Soci and msbm parking lot</item>
+        <item>Taylor hall parking lot</item>
+        <item>
+        The Annex building Parking lot</item>
+        <item>
+        Towers hall parking lot</item>
+    </string-array>
+
+
+
+</resources>
